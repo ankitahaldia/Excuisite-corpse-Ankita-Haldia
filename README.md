@@ -10,3 +10,9 @@ Thank you for adding me(orhan) to this project.
 It gives me energy and synergy.
 Please, add my change to the master branch.
 ```
+
+This is a great project,
+It's an honour and a priviledge,
+To work on it together!
+```
+
